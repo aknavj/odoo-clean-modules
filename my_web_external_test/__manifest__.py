@@ -10,7 +10,7 @@
 	'category': 'Enterprise Specific Modules',
 	'website': 'http://www.aknavj.com',
 	'description': """
-		Replace in Settings->General Settings "Document Template" to "ins_external_layout_document" to see changes.
+		Replace in Settings->General Settings "Document Template" to "ins_external_layout" to see changes.
 	""",
 	'license': 'AGPL-3',
 	'depends': [],
