@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<odoo>
+    <template id="ins_external_layout">
+        <t t-call="my_web_external_test.ins_external_layout_document">
+        <!--<t t-raw="0"/> -->
+        </t>
+    </template>
+</odoo>

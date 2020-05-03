@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<odoo>
+    <template id="ins_external_layout_document">
+        <t t-name="web.external_layout_standard">
+
+        </t> <!-- web.external_layout_standard -->
+    </template> <!-- ins_external_layout_document -->
+</odoo>
