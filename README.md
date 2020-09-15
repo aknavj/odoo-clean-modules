@@ -1,3 +1,3 @@
 # odoo-clean-modules
 
-Clean Modules for Reprort Sale, Account and Web External Layout
+Clean Modules for Reports Gen. Sale, Account and Web External Layout
